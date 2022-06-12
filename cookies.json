@@ -1,0 +1,30 @@
+[
+  {
+    "name": "xe_prod_ssb",
+    "value": "!EcAalP35V5qYKF0To85xQCfCt1mW7KQqy1+FmDnxVUWVYTgbrtkZi5mCjqpj6SiOJXt5VpatCZrnJPw=",
+    "domain": "compassxe-ssb.tamu.edu",
+    "path": "/",
+    "expires": -1,
+    "size": 92,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "AFBACF2D470EA76FF994ABD11A6EA123",
+    "domain": "compassxe-ssb.tamu.edu",
+    "path": "/StudentRegistrationSsb",
+    "expires": -1,
+    "size": 42,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
